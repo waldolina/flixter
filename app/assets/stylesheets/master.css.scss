@@ -51,9 +51,13 @@ h1, h2, h3, h4, h5, h6, .navbar {
 }
 
 .frosty {
-  background:rgba(250,250,250, 0.25);
+  background:rgba(0,0,0, 0.25);
   color:white;
   position: absolute;
   bottom: 0px;
 }
 
+body {
+  background: url('halftone.png');
+  font-family: Cabin;
+}
